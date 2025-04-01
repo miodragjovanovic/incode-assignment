@@ -2,6 +2,7 @@
 
 ## Prerequisites
 Before running this application, ensure you have the following installed:
+- [Java 21](https://jdk.java.net/21/)
 - [Docker](https://www.docker.com/get-started)
 - [Maven](https://maven.apache.org/download.cgi)
 
